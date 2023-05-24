@@ -1,0 +1,16 @@
+.rec-video{
+    flex: 0.8;
+    background-color: white;
+    padding: 40px 20px;
+    padding-bottom: 0;
+}
+
+.rec-video>h2{
+    margin-left: 5px;
+    margin-bottom: 20px;
+}
+
+.main-video{
+    display: flex;
+    flex-wrap: wrap;
+}
